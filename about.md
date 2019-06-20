@@ -8,4 +8,4 @@ permalink: /about/
 
 ### Contact me
 
-[freemanwhoru@gmail.com](mailto:email@domain.com)
+[freemanwhoru@gmail.com](mailto:freemanwhoru@gmail.com)
