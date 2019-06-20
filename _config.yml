@@ -19,7 +19,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 version: v1.2.0
-avatar: https://raw.githubusercontent.com/freemanfinicum/gitimages/master/constitutional%20law.jpg
+avatar: https://avatars1.githubusercontent.com/u/17059350?s=400&v=4
 google_analytics:
 exclude:
 - Gemfile
@@ -44,4 +44,4 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
-description: My journey to Sovereignty
+description: My Journey to Sovereignty
