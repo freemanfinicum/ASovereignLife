@@ -1,7 +1,7 @@
 ---
 author: Publius
 comments: true
-date: 2019-06-20 22:14:53.951608
+date: 2019-06-20 19:25:00.058897
 layout: post
 title: A Dictionary of the Sovereign People-
 slug: a-dictionary-of-the-sovereign-people-
@@ -16,8 +16,6 @@ slug: a-dictionary-of-the-sovereign-people-
 
 <pre>
 # The Law. The People.. Their Sovereignty… Their Rights…. Their Land….. Their GOVERNMENT and ITS PROPERTY……
-
-&lt;img alt="" src="http://4.bp.blogspot.com/-HkL5cXy2qz0/T299n6WC8UI/AAAAAAAACOQ/IleNDbaqI4w/s1600/Constitutional+Law.jpg" style="height:360px; width:425px"/&gt;
 
 ---
 
