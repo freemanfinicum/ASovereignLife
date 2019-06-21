@@ -1,28 +1,28 @@
 ---
 author: Publius
 comments: true
-date: 2019-06-20 19:25:00.058897
+date: 2019-06-20 21:25:00.058897
 layout: post
-title: A Dictionary of the Sovereign People-
-slug: a-dictionary-of-the-sovereign-people-
+title: The Constitution of the United States-Litteral
+slug: The-Contitution-of-the-United-States-Litteral-
 ---
-#The Constitution of the United States
+# ___The Constitution of the United States___
 
-Preamble
+___Preamble___
 
-We the People of the United States, in Order to form a more perfect Union, establish
+___We the People of the United States, in Order to form a more perfect Union, establish
 Justice, insure domestic Tranquility, provide for the common defence, promote the
 general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do
-ordain and establish this Constitution for the United States of America.
+ordain and establish this Constitution for the United States of America.___
 
-Article. I. - The Legislative Branch
+___Article. I. - The Legislative Branch___
 
-Section 1 - The Legislature
+__Section 1 - The Legislature__
 
 All legislative Powers herein granted shall be vested in a Congress of the United States,
 which shall consist of a Senate and House of Representatives.
 
-Section 2 - The House
+__Section 2 - The House__
 
 The House of Representatives shall be composed of Members chosen every second Year
 by the People of the several States, and the Electors in each State shall have the
@@ -53,7 +53,7 @@ thereof shall issue Writs of Election to fill such Vacancies.
 The House of Representatives shall chuse their Speaker and other Officers; and shall
 have the sole Power of Impeachment.
 
-Section 3 - The Senate
+___Section 3 - The Senate___
 
 The Senate of the United States shall be composed of two Senators from each State,
 (chosen by the Legislature thereof,) (The preceding words in parentheses superseded
@@ -89,7 +89,7 @@ and disqualification to hold and enjoy any Office of honor, Trust or Profit unde
 United States: but the Party convicted shall nevertheless be liable and subject to
 Indictment, Trial, Judgment and Punishment, according to Law.
 
-Section 4 - Elections, Meetings
+___Section 4 - Elections, Meetings___
 
 The Times, Places and Manner of holding Elections for Senators and Representatives,
 shall be prescribed in each State by the Legislature thereof; but the Congress may at any
@@ -98,7 +98,9 @@ time by Law make or alter such Regulations, except as to the Place of Chusing Se
 The Congress shall assemble at least once in every Year, and such Meeting shall (be on
 the first Monday in December,) (The preceding words in parentheses were superseded
 by the 20th Amendment, section 2.) unless they shall by Law appoint a different Day.
-Section 5 - Membership, Rules, Journals, Adjournment
+
+___Section 5 - Membership, Rules, Journals, Adjournment___
+
 Each House shall be the Judge of the Elections, Returns and Qualifications of its own
 Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller
 number may adjourn from day to day, and may be authorized to compel the Attendance
