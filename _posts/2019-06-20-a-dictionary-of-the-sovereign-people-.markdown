@@ -44,7 +44,7 @@ In the Common Law Republic of California; Established (1849) Created according t
 
 Prelude
 
-This Writing, is in a Dictionary format, and is in the best “___Kings English___”, and is based on the Principles and Wording taken from “Blackstone’s Commentaries” Ch 7 “The Kings Prerogatives” (1753); The “Federalists Papers” (1788) (Library of Congress Catalog Card Number 61–10757); as well as Many Never overturned Supreme Court rulings,
+This Writing, is in a Dictionary format, and is in the best ___"Kings English”,___ and is based on the Principles and Wording taken from ___“Blackstone’s Commentaries” Ch 7 “The Kings Prerogatives” (1753); The “Federalists Papers” (1788) (Library of Congress Catalog Card Number 61–10757);___ as well as Many Never overturned Supreme Court rulings,
 
 Page 2 of 95
 
