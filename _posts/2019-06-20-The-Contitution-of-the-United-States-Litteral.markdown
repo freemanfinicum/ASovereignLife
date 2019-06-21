@@ -417,7 +417,7 @@ Treason shall work Corruption of Blood, or Forfeiture except during the Life of 
 Person attainted.
 
 
-# ___Article. IV. - The States__
+# ___Article. IV. - The States___
 
 
 __Section 1 - Each State to Honor all others__
