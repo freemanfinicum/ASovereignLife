@@ -6,31 +6,31 @@ layout: post
 title: A Dictionary of the Sovereign People-
 slug: a-dictionary-of-the-sovereign-people-
 ---
-# The Law. The People.. Their Sovereignty… Their Rights…. Their Land….. Their GOVERNMENT and ITS PROPERTY……
+# ___The Law. The People.. Their Sovereignty… Their Rights…. Their Land….. Their GOVERNMENT and ITS PROPERTY……___
 
 <img alt="" src="http://4.bp.blogspot.com/-HkL5cXy2qz0/T299n6WC8UI/AAAAAAAACOQ/IleNDbaqI4w/s1600/Constitutional+Law.jpg" style="height:360px; width:425px"/>
 
 ---
 
-## Table of Contents-
+# Table of Contents-
 
-## Chapter 1…………………………………………The Law
+# Chapter 1…………………………………………The Law
 
-## Chapter 2………………………………….We the People
+# Chapter 2………………………………….We the People
 
-## Chapter 3………………………………Their Sovereignty
+# Chapter 3………………………………Their Sovereignty
 
-## Chapter 4…………………………….The People’s Rights
+# Chapter 4…………………………….The People’s Rights
 
-## Chapter 5………………………………The People’s Land
+# Chapter 5………………………………The People’s Land
 
-## Chapter 6…………..Their GOVERNMENT and it’s PROPERTY
+# Chapter 6…………..Their GOVERNMENT and it’s PROPERTY
 
 ---
 
 Page 1 of 95
 
-The Law. The People.. Their Sovereignty… Their Rights…. Their Land….. Their GOVERNMENT and ITS PROPERTY……
+___The Law. The People.. Their Sovereignty… Their Rights…. Their Land….. Their GOVERNMENT and ITS PROPERTY……___
 
 “My People are destroyed for lack of Knowledge: because Thou hast refused Knowledge, I will also Refuse Thee that Thou shalt be no Priest to Me: and seeing Thou hast forgotten the Law of Thy God, I will also forget Thy Children.” Geneva 1599. A corrupt system finds its security in the ignorance of the People; Publius
 
