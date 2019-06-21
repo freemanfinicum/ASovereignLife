@@ -30,7 +30,7 @@ slug: a-dictionary-of-the-sovereign-people-
 
 Page 1 of 95
 
-___## The Law. The People.. Their Sovereignty… Their Rights…. Their Land….. Their GOVERNMENT and ITS PROPERTY……___
+## ___The Law. The People.. Their Sovereignty… Their Rights…. Their Land….. Their GOVERNMENT and ITS PROPERTY……___
 
 “My People are destroyed for lack of Knowledge: because Thou hast refused Knowledge, I will also Refuse Thee that Thou shalt be no Priest to Me: and seeing Thou hast forgotten the Law of Thy God, I will also forget Thy Children.” Geneva 1599. A corrupt system finds its security in the ignorance of the People; Publius
 
