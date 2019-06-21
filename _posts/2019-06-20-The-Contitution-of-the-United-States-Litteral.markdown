@@ -20,6 +20,7 @@ ordain and establish this Constitution for the United States of America.___
 
 # ___Article. I. - The Legislative Branch___
 
+
 __Section 1 - The Legislature__
 
 All legislative Powers herein granted shall be vested in a Congress of the United States,
@@ -272,6 +273,7 @@ imminent Danger as will not admit of delay.
 
 # ___Article. II. - The Executive Branch___
 
+
 __Section 1 - The President__
 
 The executive Power shall be vested in a President of the United States of America. He
@@ -370,7 +372,7 @@ from Office on Impeachment for, and Conviction of, Treason, Bribery, or other hi
 Crimes and Misdemeanors.
 
 
-___Article III. - The Judicial Branch___
+# ___Article III. - The Judicial Branch___
 
 __Section 1 - Judicial powers__
 
@@ -415,7 +417,8 @@ Treason shall work Corruption of Blood, or Forfeiture except during the Life of 
 Person attainted.
 
 
-___Article. IV. - The States__
+# ___Article. IV. - The States__
+
 
 __Section 1 - Each State to Honor all others__
 
@@ -423,19 +426,24 @@ Full Faith and Credit shall be given in each State to the public Acts, Records, 
 Proceedings of every other State. And the Congress may by general Laws prescribe the
 Manner in which such Acts, Records and Proceedings shall be proved, and the Effect
 thereof.
-Section 2 - State citizens, Extradition
+
+__Section 2 - State citizens, Extradition__
+
 The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in
 the several States.
 A Person charged in any State with Treason, Felony, or other Crime, who shall flee from
 Justice, and be found in another State, shall on demand of the executive Authority of the
 State from which he fled, be delivered up, to be removed to the State having Jurisdiction
 of the Crime.
+
 (No Person held to Service or Labour in one State, under the Laws thereof, escaping into
 another, shall, in Consequence of any Law or Regulation therein, be discharged from
 such Service or Labour, But shall be delivered up on Claim of the Party to whom such
 Service or Labour may be due.) (This clause in parentheses is superseded by the 13th
 Amendment.)
-Section 3 - New States
+
+__Section 3 - New States__
+
 New States may be admitted by the Congress into this Union; but no new States shall be
 formed or erected within the Jurisdiction of any other State; nor any State be formed by
 the Junction of two or more States, or parts of States, without the Consent of the
@@ -444,93 +452,120 @@ The Congress shall have Power to dispose of and make all needful Rules and Regul
 respecting the Territory or other Property belonging to the United States; and nothing in
 this Constitution shall be so construed as to Prejudice any Claims of the United States, or
 of any particular State.
-Section 4 - Republican government
+
+__Section 4 - Republican government__
+
 The United States shall guarantee to every State in this Union a Republican Form of
 Government, and shall protect each of them against Invasion; and on Application of the
 Legislature, or of the Executive (when the Legislature cannot be convened) against
 domestic Violence.
- 
- 
 
- 
-Article. V. - Amendment
+
+# ___Article. V. - Amendment___
+
 The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose
 Amendments to this Constitution, or, on the Application of the Legislatures of two thirds
 of the several States, shall call a Convention for proposing Amendments, which, in either
 Case, shall be valid to all Intents and Purposes, as part of this Constitution, when ratified
 by the Legislatures of three fourths of the several States, or by Conventions in three
 fourths thereof, as the one or the other Mode of Ratification may be proposed by the
-Congress; Provided that no Amendment which may be made prior to the Year One
-thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses
+Congress; Provided that no Amendment which may be made prior to the Year One 
+thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses 
 in the Ninth Section of the first Article; and that no State, without its Consent, shall be
 deprived of its equal Suffrage in the Senate.
-Article. VI. - Debts, Supremacy, Oaths
+
+# ___Article. VI. - Debts, Supremacy, Oaths___
+
 All Debts contracted and Engagements entered into, before the Adoption of this
 Constitution, shall be as valid against the United States under this Constitution, as under
 the Confederation.
+
 This Constitution, and the Laws of the United States which shall be made in Pursuance
 thereof; and all Treaties made, or which shall be made, under the Authority of the United
 States, shall be the supreme Law of the Land; and the Judges in every State shall be
 bound thereby, any Thing in the Constitution or Laws of any State to the Contrary
 notwithstanding.
+
 The Senators and Representatives before mentioned, and the Members of the several
 State Legislatures, and all executive and judicial Officers, both of the United States and
 of the several States, shall be bound by Oath or Affirmation, to support this Constitution;
 but no religious Test shall ever be required as a Qualification to any Office or public
 Trust under the United States.
-Article. VII. - Ratification
+
+# ___Article. VII. - Ratification___
+
 The Ratification of the Conventions of nine States, shall be sufficient for the
 Establishment of this Constitution between the States so ratifying the Same.
 Done in Convention by the Unanimous Consent of the States present the Seventeenth
 Day of September in the Year of our Lord one thousand seven hundred and Eighty seven
 and of the Independence of the United States of America the Twelfth. In Witness whereof
 We have hereunto subscribed our Names.
- 
- 
 
- 
 Go Washington - President and deputy from Virginia
+
 New Hampshire - John Langdon, Nicholas Gilman
+
 Massachusetts - Nathaniel Gorham, Rufus King
+
 Connecticut - Wm Saml Johnson, Roger Sherman
+
 New York - Alexander Hamilton
+
 New Jersey - Wil Livingston, David Brearley, Wm Paterson, Jona. Dayton
+
 Pensylvania - B Franklin, Thomas Mifflin, Robt Morris, Geo. Clymer, Thos FitzSimons,
 Jared Ingersoll, James Wilson, Gouv Morris
+
 Delaware - Geo. Read, Gunning Bedford jun, John Dickinson, Richard Bassett, Jaco.
 Broom
+
 Maryland - James McHenry, Dan of St Tho Jenifer, Danl Carroll
+
 Virginia - John Blair, James Madison Jr.
+
 North Carolina - Wm Blount, Richd Dobbs Spaight, Hu Williamson
+
 South Carolina - J. Rutledge, Charles Cotesworth Pinckney, Charles Pinckney, Pierce
 Butler
+
 Georgia - William Few, Abr Baldwin
+
 Attest: William Jackson, Secretary
-The Amendments
-The following are the Amendments to the Constitution. The first ten Amendments
-collectively are commonly known as the Bill of Rights.
-Amendment 1 - Freedom of Religion, Press, Expression. Ratified 12/15/1791.
+
+
+
+# ___The Amendments___
+
+__The following are the Amendments to the Constitution. The first ten Amendments
+collectively are commonly known as the Bill of Rights.__
+
+__Amendment 1 - Freedom of Religion, Press, Expression. Ratified 12/15/1791.__
+
 Congress shall make no law respecting an establishment of religion, or prohibiting the
 free exercise thereof; or abridging the freedom of speech, or of the press; or the right of
 the people peaceably to assemble, and to petition the Government for a redress of
 grievances.
  
- 
+__Amendment 2 - Right to Bear Arms. Ratified 12/15/1791.__
 
- 
-Amendment 2 - Right to Bear Arms. Ratified 12/15/1791.
 A well regulated Militia, being necessary to the security of a free State, the right of the
 people to keep and bear Arms, shall not be infringed.
-Amendment 3 - Quartering of Soldiers. Ratified 12/15/1791.
+
+__Amendment 3 - Quartering of Soldiers. Ratified 12/15/1791.__
+
 No Soldier shall, in time of peace be quartered in any house, without the consent of the
 Owner, nor in time of war, but in a manner to be prescribed by law.
-Amendment 4 - Search and Seizure. Ratified 12/15/1791.
+
+__Amendment 4 - Search and Seizure. Ratified 12/15/1791.__
+
 The right of the people to be secure in their persons, houses, papers, and effects, against
 unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but
 upon probable cause, supported by Oath or affirmation, and particularly describing the
 place to be searched, and the persons or things to be seized.
-Amendment 5 - Trial and Punishment, Compensation for Takings. Ratified
-12/15/1791.
+
+__Amendment 5 - Trial and Punishment, Compensation for Takings. Ratified
+12/15/1791.__
+
 No person shall be held to answer for a capital, or otherwise infamous crime, unless on a
 presentment or indictment of a Grand Jury, except in cases arising in the land or naval
 forces, or in the Militia, when in actual service in time of War or public danger; nor shall
@@ -538,41 +573,46 @@ any person be subject for the same offense to be twice put in jeopardy of life o
 shall be compelled in any criminal case to be a witness against himself, nor be deprived
 of life, liberty, or property, without due process of law; nor shall private property be
 taken for public use, without just compensation.
-Amendment 6 - Right to Speedy Trial, Confrontation of Witnesses. Ratified
-12/15/1791.
+
+__Amendment 6 - Right to Speedy Trial, Confrontation of Witnesses. Ratified
+12/15/1791.__
+
 In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial,
 by an impartial jury of the State and district wherein the crime shall have been
 committed, which district shall have been previously ascertained by law, and to be
-informed of the nature and cause of the accusation; to be confronted with the witnesses
- 
- 
-
- 
+informed of the nature and cause of the accusation; to be confronted with the witnesses 
 against him; to have compulsory process for obtaining witnesses in his favor, and to have
 the Assistance of Counsel for his defence.
-Amendment 7 - Trial by Jury in Civil Cases. Ratified 12/15/1791.
+
+__Amendment 7 - Trial by Jury in Civil Cases. Ratified 12/15/1791.__
+
 In Suits at common law, where the value in controversy shall exceed twenty dollars, the
 right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise re-
 examined in any Court of the United States, than according to the rules of the common
 law.
-Amendment 8 - Cruel and Unusual Punishment. Ratified 12/15/1791.
+
+__Amendment 8 - Cruel and Unusual Punishment. Ratified 12/15/1791.__
+
 Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual
 punishments inflicted.
-Amendment 9 - Construction of Constitution. Ratified 12/15/1791.
+
+__Amendment 9 - Construction of Constitution. Ratified 12/15/1791.__
+
 The enumeration in the Constitution, of certain rights, shall not be construed to deny or
 disparage others retained by the people.
-Amendment 10 - Powers of the States and People. Ratified 12/15/1791.
+
+__Amendment 10 - Powers of the States and People. Ratified 12/15/1791.__
 The powers not delegated to the United States by the Constitution, nor prohibited by it to
 the States, are reserved to the States respectively, or to the people.
-Amendment 11 - Judicial Limits. Ratified 2/7/1795.
+
+__Amendment 11 - Judicial Limits. Ratified 2/7/1795.__
+
 The Judicial power of the United States shall not be construed to extend to any suit in law
 or equity, commenced or prosecuted against one of the United States by Citizens of
 another State, or by Citizens or Subjects of any Foreign State.
-Amendment 12 - Choosing the President, Vice-President. Ratified 6/15/1804.
- 
- 
 
- 
+__Amendment 12 - Choosing the President, Vice-President. Ratified 6/15/1804.__
+
 The Electors shall meet in their respective states, and vote by ballot for President and
 Vice-President, one of whom, at least, shall not be an inhabitant of the same state with
 themselves; they shall name in their ballots the person voted for as President, and in
@@ -594,6 +634,7 @@ Representatives shall not choose a President whenever the right of choice shall 
 upon them, before the fourth day of March next following, then the Vice-President shall
 act as President, as in the case of the death or other constitutional disability of the
 President.
+
 The person having the greatest number of votes as Vice-President, shall be the Vice-
 President, if such number be a majority of the whole number of Electors appointed, and if
 no person have a majority, then from the two highest numbers on the list, the Senate shall
@@ -601,22 +642,23 @@ choose the Vice-President; a quorum for the purpose shall consist of two-thirds 
 whole number of Senators, and a majority of the whole number shall be necessary to a
 choice. But no person constitutionally ineligible to the office of President shall be eligible
 to that of Vice-President of the United States.
-Amendment 13 - Slavery Abolished. Ratified 12/6/1865.
+
+__Amendment 13 - Slavery Abolished. Ratified 12/6/1865.__
+
 1. Neither slavery nor involuntary servitude, except as a punishment for crime whereof
 the party shall have been duly convicted, shall exist within the United States, or any place
 subject to their jurisdiction.
 2. Congress shall have power to enforce this article by appropriate legislation.
-Amendment 14 - Citizenship Rights. Ratified 7/9/1868.
- 
- 
 
- 
+__Amendment 14 - Citizenship Rights. Ratified 7/9/1868.__
+
 1. All persons born or naturalized in the United States, and subject to the jurisdiction
 thereof, are citizens of the United States and of the State wherein they reside. No State
 shall make or enforce any law which shall abridge the privileges or immunities of citizens
 of the United States; nor shall any State deprive any person of life, liberty, or property,
 without due process of law; nor deny to any person within its jurisdiction the equal
 protection of the laws.
+
 2. Representatives shall be apportioned among the several States according to their
 respective numbers, counting the whole number of persons in each State, excluding
 Indians not taxed. But when the right to vote at any election for the choice of electors for
@@ -627,6 +669,7 @@ citizens of the United States, or in any way abridged, except for participation 
 or other crime, the basis of representation therein shall be reduced in the proportion
 which the number of such male citizens shall bear to the whole number of male citizens
 twenty-one years of age in such State.
+
 3. No person shall be a Senator or Representative in Congress, or elector of President and
 Vice-President, or hold any office, civil or military, under the United States, or under any
 State, who, having previously taken an oath, as a member of Congress, or as an officer of
@@ -634,64 +677,75 @@ the United States, or as a member of any State legislature, or as an executive o
 officer of any State, to support the Constitution of the United States, shall have engaged
 in insurrection or rebellion against the same, or given aid or comfort to the enemies
 thereof. But Congress may by a vote of two-thirds of each House, remove such disability.
+
 4. The validity of the public debt of the United States, authorized by law, including debts
 incurred for payment of pensions and bounties for services in suppressing insurrection or
 rebellion, shall not be questioned. But neither the United States nor any State shall
 assume or pay any debt or obligation incurred in aid of insurrection or rebellion against
 the United States, or any claim for the loss or emancipation of any slave; but all such
 debts, obligations and claims shall be held illegal and void.
+
 5. The Congress shall have power to enforce, by appropriate legislation, the provisions of
 this article.
-Amendment 15 - Race No Bar to Vote. Ratified 2/3/1870.
+
+__Amendment 15 - Race No Bar to Vote. Ratified 2/3/1870.__
+
 1. The right of citizens of the United States to vote shall not be denied or abridged by the
 United States or by any State on account of race, color, or previous condition of
 servitude.
 2. The Congress shall have power to enforce this article by appropriate legislation.
- 
- 
 
- 
-Amendment 16 - Status of Income Tax Clarified. Ratified 2/3/1913.
+__Amendment 16 - Status of Income Tax Clarified. Ratified 2/3/1913.__
+
 The Congress shall have power to lay and collect taxes on incomes, from whatever
 source derived, without apportionment among the several States, and without regard to
 any census or enumeration.
-Amendment 17 - Senators Elected by Popular Vote. Ratified 4/8/1913.
+
+__Amendment 17 - Senators Elected by Popular Vote. Ratified 4/8/1913.__
+
 The Senate of the United States shall be composed of two Senators from each State,
 elected by the people thereof, for six years; and each Senator shall have one vote. The
 electors in each State shall have the qualifications requisite for electors of the most
 numerous branch of the State legislatures.
+
 When vacancies happen in the representation of any State in the Senate, the executive
 authority of such State shall issue writs of election to fill such vacancies: Provided, That
 the legislature of any State may empower the executive thereof to make temporary
 appointments until the people fill the vacancies by election as the legislature may direct.
 This amendment shall not be so construed as to affect the election or term of any Senator
 chosen before it becomes valid as part of the Constitution.
-Amendment 18 - Liquor Abolished. Ratified 1/16/1919. Repealed by Amendment 21,
-12/5/1933.
+
+__Amendment 18 - Liquor Abolished. Ratified 1/16/1919. Repealed by Amendment 21,
+12/5/1933.__
+
 1. After one year from the ratification of this article the manufacture, sale, or
 transportation of intoxicating liquors within, the importation thereof into, or the
 exportation thereof from the United States and all territory subject to the jurisdiction
 thereof for beverage purposes is hereby prohibited.
+
 2. The Congress and the several States shall have concurrent power to enforce this article
 by appropriate legislation.
+
 3. This article shall be inoperative unless it shall have been ratified as an amendment to
 the Constitution by the legislatures of the several States, as provided in the Constitution,
 within seven years from the date of the submission hereof to the States by the Congress.
-Amendment 19 - Women's Suffrage. Ratified 8/18/1920.
- 
- 
 
- 
+__Amendment 19 - Women's Suffrage. Ratified 8/18/1920.__
+
 The right of citizens of the United States to vote shall not be denied or abridged by the
 United States or by any State on account of sex.
 Congress shall have power to enforce this article by appropriate legislation.
-Amendment 20 - Presidential, Congressional Terms. Ratified 1/23/1933.
+
+__Amendment 20 - Presidential, Congressional Terms. Ratified 1/23/1933.__
+
 1. The terms of the President and Vice President shall end at noon on the 20th day of
 January, and the terms of Senators and Representatives at noon on the 3d day of January,
 of the years in which such terms would have ended if this article had not been ratified;
 and the terms of their successors shall then begin.
+
 2. The Congress shall assemble at least once in every year, and such meeting shall begin
 at noon on the 3d day of January, unless they shall by law appoint a different day.
+
 3. If, at the time fixed for the beginning of the term of the President, the President elect
 shall have died, the Vice President elect shall become President. If a President shall not
 have been chosen before the time fixed for the beginning of his term, or if the President
@@ -701,30 +755,35 @@ wherein neither a President elect nor a Vice President elect shall have qualifie
 who shall then act as President, or the manner in which one who is to act shall be
 selected, and such person shall act accordingly until a President or Vice President shall
 have qualified.
+
 4. The Congress may by law provide for the case of the death of any of the persons from
 whom the House of Representatives may choose a President whenever the right of choice
 shall have devolved upon them, and for the case of the death of any of the persons from
 whom the Senate may choose a Vice President whenever the right of choice shall have
 devolved upon them.
+
 5. Sections 1 and 2 shall take effect on the 15th day of October following the ratification
 of this article.
+
 6. This article shall be inoperative unless it shall have been ratified as an amendment to
 the Constitution by the legislatures of three-fourths of the several States within seven
 years from the date of its submission.
-Amendment 21 - Amendment 18 Repealed. Ratified 12/5/1933.
+
+__Amendment 21 - Amendment 18 Repealed. Ratified 12/5/1933.__
+
 1. The eighteenth article of amendment to the Constitution of the United States is hereby
 repealed.
- 
- 
 
- 
 2. The transportation or importation into any State, Territory, or possession of the United
 States for delivery or use therein of intoxicating liquors, in violation of the laws thereof,
 is hereby prohibited.
+
 3. The article shall be inoperative unless it shall have been ratified as an amendment to
 the Constitution by conventions in the several States, as provided in the Constitution,
 within seven years from the date of the submission hereof to the States by the Congress.
-Amendment 22 - Presidential Term Limits. Ratified 2/27/1951.
+
+__Amendment 22 - Presidential Term Limits. Ratified 2/27/1951.__
+
 1. No person shall be elected to the office of the President more than twice, and no person
 who has held the office of President, or acted as President, for more than two years of a
 term to which some other person was elected President shall be elected to the office of
@@ -733,10 +792,13 @@ office of President, when this Article was proposed by the Congress, and shall n
 prevent any person who may be holding the office of President, or acting as President,
 during the term within which this Article becomes operative from holding the office of
 President or acting as President during the remainder of such term.
+
 2. This article shall be inoperative unless it shall have been ratified as an amendment to
 the Constitution by the legislatures of three-fourths of the several States within seven
 years from the date of its submission to the States by the Congress.
-Amendment 23 - Presidential Vote for District of Columbia. Ratified 3/29/1961.
+
+__Amendment 23 - Presidential Vote for District of Columbia. Ratified 3/29/1961.__
+
 1. The District constituting the seat of Government of the United States shall appoint in
 such manner as the Congress may direct: A number of electors of President and Vice
 President equal to the whole number of Senators and Representatives in Congress to
@@ -745,34 +807,40 @@ populous State; they shall be in addition to those appointed by the States, but 
 be considered, for the purposes of the election of President and Vice President, to be
 electors appointed by a State; and they shall meet in the District and perform such duties
 as provided by the twelfth article of amendment.
-2. The Congress shall have power to enforce this article by appropriate legislation.
-Amendment 24 - Poll Tax Barred. Ratified 1/23/1964.
-1. The right of citizens of the United States to vote in any primary or other election for
-President or Vice President, for electors for President or Vice President, or for Senator or
- 
- 
 
- 
+2. The Congress shall have power to enforce this article by appropriate legislation.
+
+__Amendment 24 - Poll Tax Barred. Ratified 1/23/1964.__
+
+1. The right of citizens of the United States to vote in any primary or other election for
+President or Vice President, for electors for President or Vice President, or for Senator or 
 Representative in Congress, shall not be denied or abridged by the United States or any
 State by reason of failure to pay any poll tax or other tax.
+
 2. The Congress shall have power to enforce this article by appropriate legislation.
-Amendment 25 - Presidential Disability and Succession. Ratified 2/10/1967.
+
+__Amendment 25 - Presidential Disability and Succession. Ratified 2/10/1967.__
+
 1. In case of the removal of the President from office or of his death or resignation, the
 Vice President shall become President.
+
 2. Whenever there is a vacancy in the office of the Vice President, the President shall
 nominate a Vice President who shall take office upon confirmation by a majority vote of
 both Houses of Congress.
+
 3. Whenever the President transmits to the President pro tempore of the Senate and the
 Speaker of the House of Representatives his written declaration that he is unable to
 discharge the powers and duties of his office, and until he transmits to them a written
 declaration to the contrary, such powers and duties shall be discharged by the Vice
 President as Acting President.
+
 4. Whenever the Vice President and a majority of either the principal officers of the
 executive departments or of such other body as Congress may by law provide, transmit to
 the President pro tempore of the Senate and the Speaker of the House of Representatives
 their written declaration that the President is unable to discharge the powers and duties of
 his office, the Vice President shall immediately assume the powers and duties of the
 office as Acting President.
+
 Thereafter, when the President transmits to the President pro tempore of the Senate and
 the Speaker of the House of Representatives his written declaration that no inability
 exists, he shall resume the powers and duties of his office unless the Vice President and a
@@ -787,17 +855,20 @@ required to assemble, determines by two thirds vote of both Houses that the Pres
 unable to discharge the powers and duties of his office, the Vice President shall continue
 to discharge the same as Acting President; otherwise, the President shall resume the
 powers and duties of his office.
- 
- 
 
- 
-Amendment 26 - Voting Age Set to 18 Years. Ratified 7/1/1971.
+__Amendment 26 - Voting Age Set to 18 Years. Ratified 7/1/1971.__
+
 1. The right of citizens of the United States, who are eighteen years of age or older, to
 vote shall not be denied or abridged by the United States or by any State on account of
 age.
+
 2. The Congress shall have power to enforce this article by appropriate legislation.
-Amendment 27 - Limiting Congressional Pay Increases. Ratified 5/7/1992.
+
+__Amendment 27 - Limiting Congressional Pay Increases. Ratified 5/7/1992.__
+
 No law, varying the compensation for the services of the Senators and Representatives,
 shall take effect, until an election of Representatives shall have intervened.
+
 This file was prepared by USConstitution.net. Find us on the web at
 http://www.usconstitution.net.
+
