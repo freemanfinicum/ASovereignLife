@@ -6,7 +6,9 @@ layout: post
 title: The Constitution of the United States-Litteral
 slug: The-Contitution-of-the-United-States-Litteral-
 ---
-# ___The Constitution of the United States___
+
+## ___The Constitution of the United States___
+
 
 ___Preamble___
 
@@ -15,7 +17,8 @@ Justice, insure domestic Tranquility, provide for the common defence, promote th
 general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do
 ordain and establish this Constitution for the United States of America.___
 
-___Article. I. - The Legislative Branch___
+
+# ___Article. I. - The Legislative Branch___
 
 __Section 1 - The Legislature__
 
@@ -53,7 +56,7 @@ thereof shall issue Writs of Election to fill such Vacancies.
 The House of Representatives shall chuse their Speaker and other Officers; and shall
 have the sole Power of Impeachment.
 
-___Section 3 - The Senate___
+__Section 3 - The Senate__
 
 The Senate of the United States shall be composed of two Senators from each State,
 (chosen by the Legislature thereof,) (The preceding words in parentheses superseded
@@ -89,7 +92,7 @@ and disqualification to hold and enjoy any Office of honor, Trust or Profit unde
 United States: but the Party convicted shall nevertheless be liable and subject to
 Indictment, Trial, Judgment and Punishment, according to Law.
 
-___Section 4 - Elections, Meetings___
+__Section 4 - Elections, Meetings__
 
 The Times, Places and Manner of holding Elections for Senators and Representatives,
 shall be prescribed in each State by the Legislature thereof; but the Congress may at any
@@ -99,7 +102,7 @@ The Congress shall assemble at least once in every Year, and such Meeting shall 
 the first Monday in December,) (The preceding words in parentheses were superseded
 by the 20th Amendment, section 2.) unless they shall by Law appoint a different Day.
 
-___Section 5 - Membership, Rules, Journals, Adjournment___
+__Section 5 - Membership, Rules, Journals, Adjournment__
 
 Each House shall be the Judge of the Elections, Returns and Qualifications of its own
 Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller
@@ -112,10 +115,13 @@ Each House shall keep a Journal of its Proceedings, and from time to time publis
 same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and
 Nays of the Members of either House on any question shall, at the Desire of one fifth of
 those Present, be entered on the Journal.
+
 Neither House, during the Session of Congress, shall, without the Consent of the other,
 adjourn for more than three days, nor to any other Place than that in which the two
 Houses shall be sitting.
-Section 6 - Compensation
+
+__Section 6 - Compensation__
+
 (The Senators and Representatives shall receive a Compensation for their Services, to be
 ascertained by Law, and paid out of the Treasury of the United States.) (The preceding
 words in parentheses were modified by the 27th Amendment.) They shall in all
@@ -123,18 +129,18 @@ Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest
 their Attendance at the Session of their respective Houses, and in going to and returning
 from the same; and for any Speech or Debate in either House, they shall not be
 questioned in any other Place.
+
 No Senator or Representative shall, during the Time for which he was elected, be
 appointed to any civil Office under the Authority of the United States which shall have
 been created, or the Emoluments whereof shall have been increased during such time;
 and no Person holding any Office under the United States, shall be a Member of either
 House during his Continuance in Office.
-Section 7 - Revenue Bills, Legislative Process, Presidential Veto
+
+__Section 7 - Revenue Bills, Legislative Process, Presidential Veto__
+
 All bills for raising Revenue shall originate in the House of Representatives; but the
 Senate may propose or concur with Amendments as on other Bills.
- 
- 
 
- 
 Every Bill which shall have passed the House of Representatives and the Senate, shall,
 before it become a Law, be presented to the President of the United States; If he approve
 he shall sign it, but if not he shall return it, with his Objections to that House in which it
@@ -148,110 +154,136 @@ entered on the Journal of each House respectively. If any Bill shall not be retu
 President within ten Days (Sundays excepted) after it shall have been presented to him,
 the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by
 their Adjournment prevent its Return, in which Case it shall not be a Law.
+
 Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of
 Representatives may be necessary (except on a question of Adjournment) shall be
 presented to the President of the United States; and before the Same shall take Effect,
 shall be approved by him, or being disapproved by him, shall be repassed by two thirds of
 the Senate and House of Representatives, according to the Rules and Limitations
 prescribed in the Case of a Bill.
-Section 8 - Powers of Congress
+
+__Section 8 - Powers of Congress__
+
 The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to
 pay the Debts and provide for the common Defence and general Welfare of the United
 States; but all Duties, Imposts and Excises shall be uniform throughout the United States;
 To borrow money on the credit of the United States;
+
 To regulate Commerce with foreign Nations, and among the several States, and with the
 Indian Tribes;
+
 To establish an uniform Rule of Naturalization, and uniform Laws on the subject of
 Bankruptcies throughout the United States;
+
 To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of
 Weights and Measures;
+
 To provide for the Punishment of counterfeiting the Securities and current Coin of the
 United States;
+
 To establish Post Offices and Post Roads;
+
 To promote the Progress of Science and useful Arts, by securing for limited Times to
 Authors and Inventors the exclusive Right to their respective Writings and Discoveries;
- 
- 
 
- 
 To constitute Tribunals inferior to the supreme Court;
+
 To define and punish Piracies and Felonies committed on the high Seas, and Offenses
 against the Law of Nations;
+
 To declare War, grant Letters of Marque and Reprisal, and make Rules concerning
 Captures on Land and Water;
+
 To raise and support Armies, but no Appropriation of Money to that Use shall be for a
 longer Term than two Years;
+
 To provide and maintain a Navy;
+
 To make Rules for the Government and Regulation of the land and naval Forces;
+
 To provide for calling forth the Militia to execute the Laws of the Union, suppress
 Insurrections and repel Invasions;
+
 To provide for organizing, arming, and disciplining the Militia, and for governing such
 Part of them as may be employed in the Service of the United States, reserving to the
 States respectively, the Appointment of the Officers, and the Authority of training the
 Militia according to the discipline prescribed by Congress;
+
 To exercise exclusive Legislation in all Cases whatsoever, over such District (not
 exceeding ten Miles square) as may, by Cession of particular States, and the acceptance
 of Congress, become the Seat of the Government of the United States, and to exercise
 like Authority over all Places purchased by the Consent of the Legislature of the State in
 which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards, and
 other needful Buildings; And
+
 To make all Laws which shall be necessary and proper for carrying into Execution the
 foregoing Powers, and all other Powers vested by this Constitution in the Government of
 the United States, or in any Department or Officer thereof.
-Section 9 - Limits on Congress
+
+__Section 9 - Limits on Congress__
+
 The Migration or Importation of such Persons as any of the States now existing shall
 think proper to admit, shall not be prohibited by the Congress prior to the Year one
 thousand eight hundred and eight, but a tax or duty may be imposed on such Importation,
 not exceeding ten dollars for each Person.
+
 The privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases
 of Rebellion or Invasion the public Safety may require it.
-No Bill of Attainder or ex post facto Law shall be passed.
- 
- 
 
- 
+No Bill of Attainder or ex post facto Law shall be passed.
+
 (No capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or
 Enumeration herein before directed to be taken.) (Section in parentheses clarified by
 the 16th Amendment.)
+
 No Tax or Duty shall be laid on Articles exported from any State.
+
 No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of
 one State over those of another: nor shall Vessels bound to, or from, one State, be obliged
 to enter, clear, or pay Duties in another.
+
 No Money shall be drawn from the Treasury, but in Consequence of Appropriations
 made by Law; and a regular Statement and Account of the Receipts and Expenditures of
 all public Money shall be published from time to time.
+
 No Title of Nobility shall be granted by the United States: And no Person holding any
 Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of
 any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince or
 foreign State.
-Section 10 - Powers prohibited of States
+
+__Section 10 - Powers prohibited of States__
+
 No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque
 and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin
 a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law
 impairing the Obligation of Contracts, or grant any Title of Nobility.
+
 No State shall, without the Consent of the Congress, lay any Imposts or Duties on
 Imports or Exports, except what may be absolutely necessary for executing it's inspection
 Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or
 Exports, shall be for the Use of the Treasury of the United States; and all such Laws shall
 be subject to the Revision and Controul of the Congress.
+
 No State shall, without the Consent of Congress, lay any duty of Tonnage, keep Troops,
 or Ships of War in time of Peace, enter into any Agreement or Compact with another
 State, or with a foreign Power, or engage in War, unless actually invaded, or in such
 imminent Danger as will not admit of delay.
-Article. II. - The Executive Branch
-Section 1 - The President
+
+
+# ___Article. II. - The Executive Branch___
+
+__Section 1 - The President__
+
 The executive Power shall be vested in a President of the United States of America. He
 shall hold his Office during the Term of four Years, and, together with the Vice-President
 chosen for the same Term, be elected, as follows:
- 
- 
 
- 
 Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number
 of Electors, equal to the whole Number of Senators and Representatives to which the
 State may be entitled in the Congress: but no Senator or Representative, or Person
 holding an Office of Trust or Profit under the United States, shall be appointed an
 Elector.
+
 (The Electors shall meet in their respective States, and vote by Ballot for two persons, of
 whom one at least shall not lie an Inhabitant of the same State with themselves. And they
 shall make a List of all the Persons voted for, and of the Number of Votes for each; which
@@ -271,12 +303,14 @@ after the Choice of the President, the Person having the greatest Number of Vote
 Electors shall be the Vice President. But if there should remain two or more who have
 equal Votes, the Senate shall chuse from them by Ballot the Vice-President.) (This clause
 in parentheses was superseded by the 12th Amendment.)
+
 The Congress may determine the Time of chusing the Electors, and the Day on which
 they shall give their Votes; which Day shall be the same throughout the United States.
 No person except a natural born Citizen, or a Citizen of the United States, at the time of
 the Adoption of this Constitution, shall be eligible to the Office of President; neither shall
 any Person be eligible to that Office who shall not have attained to the Age of thirty-five
 Years, and been fourteen Years a Resident within the United States.
+
 (In Case of the Removal of the President from Office, or of his Death, Resignation, or
 Inability to discharge the Powers and Duties of the said Office, the same shall devolve on
 the Vice President, and the Congress may by Law provide for the Case of Removal,
@@ -284,26 +318,28 @@ Death, Resignation or Inability, both of the President and Vice President, decla
 Officer shall then act as President, and such Officer shall act accordingly, until the
 Disability be removed, or a President shall be elected.) (This clause in parentheses has
 been modified by the 20th and 25th Amendments.)
+
 The President shall, at stated Times, receive for his Services, a Compensation, which
 shall neither be increased nor diminished during the Period for which he shall have been
 elected, and he shall not receive within that Period any other Emolument from the United
 States, or any of them.
- 
- 
 
- 
 Before he enter on the Execution of his Office, he shall take the following Oath or
 Affirmation:
+
 "I do solemnly swear (or affirm) that I will faithfully execute the Office of President of
 the United States, and will to the best of my Ability, preserve, protect and defend the
 Constitution of the United States."
-Section 2 - Civilian Power over Military, Cabinet, Pardon Power, Appointments
+
+__Section 2 - Civilian Power over Military, Cabinet, Pardon Power, Appointments__
+
 The President shall be Commander in Chief of the Army and Navy of the United States,
 and of the Militia of the several States, when called into the actual Service of the United
 States; he may require the Opinion, in writing, of the principal Officer in each of the
 executive Departments, upon any subject relating to the Duties of their respective
 Offices, and he shall have Power to Grant Reprieves and Pardons for Offenses against the
 United States, except in Cases of Impeachment.
+
 He shall have Power, by and with the Advice and Consent of the Senate, to make
 Treaties, provided two thirds of the Senators present concur; and he shall nominate, and
 by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other
@@ -312,10 +348,13 @@ United States, whose Appointments are not herein otherwise provided for, and whi
 shall be established by Law: but the Congress may by Law vest the Appointment of such
 inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in
 the Heads of Departments.
+
 The President shall have Power to fill up all Vacancies that may happen during the
 Recess of the Senate, by granting Commissions which shall expire at the End of their
 next Session.
-Section 3 - State of the Union, Convening Congress
+
+__Section 3 - State of the Union, Convening Congress__
+
 He shall from time to time give to the Congress Information of the State of the Union,
 and recommend to their Consideration such Measures as he shall judge necessary and
 expedient; he may, on extraordinary Occasions, convene both Houses, or either of them,
@@ -323,22 +362,26 @@ and in Case of Disagreement between them, with Respect to the Time of Adjournmen
 he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors
 and other public Ministers; he shall take Care that the Laws be faithfully executed, and
 shall Commission all the Officers of the United States.
-Section 4 - Disqualification
+
+__Section 4 - Disqualification__
+
 The President, Vice President and all civil Officers of the United States, shall be removed
 from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high
 Crimes and Misdemeanors.
- 
- 
 
- 
-Article III. - The Judicial Branch
-Section 1 - Judicial powers
+
+___Article III. - The Judicial Branch___
+
+__Section 1 - Judicial powers__
+
 The judicial Power of the United States, shall be vested in one supreme Court, and in
 such inferior Courts as the Congress may from time to time ordain and establish. The
 Judges, both of the supreme and inferior Courts, shall hold their Offices during good
 Behavior, and shall, at stated Times, receive for their Services a Compensation which
 shall not be diminished during their Continuance in Office.
-Section 2 - Trial by Jury, Original Jurisdiction, Jury Trials
+
+__Section 2 - Trial by Jury, Original Jurisdiction, Jury Trials__
+
 (The judicial Power shall extend to all Cases, in Law and Equity, arising under this
 Constitution, the Laws of the United States, and Treaties made, or which shall be made,
 under their Authority; to all Cases affecting Ambassadors, other public Ministers and
@@ -348,29 +391,34 @@ a State and Citizens of another State; between Citizens of different States; bet
 Citizens of the same State claiming Lands under Grants of different States, and between a
 State, or the Citizens thereof, and foreign States, Citizens or Subjects.) (This section in
 parentheses is modified by the 11th Amendment.)
+
 In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in
 which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the
 other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both
 as to Law and Fact, with such Exceptions, and under such Regulations as the Congress
 shall make.
+
 The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury; and such Trial
 shall be held in the State where the said Crimes shall have been committed; but when not
 committed within any State, the Trial shall be at such Place or Places as the Congress
 may by Law have directed.
-Section 3 - Treason
+
+__Section 3 - Treason__
+
 Treason against the United States, shall consist only in levying War against them, or in
 adhering to their Enemies, giving them Aid and Comfort. No Person shall be convicted of
 Treason unless on the Testimony of two Witnesses to the same overt Act, or on
 Confession in open Court.
+
 The Congress shall have power to declare the Punishment of Treason, but no Attainder of
 Treason shall work Corruption of Blood, or Forfeiture except during the Life of the
 Person attainted.
- 
- 
 
- 
-Article. IV. - The States
-Section 1 - Each State to Honor all others
+
+___Article. IV. - The States__
+
+__Section 1 - Each State to Honor all others__
+
 Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial
 Proceedings of every other State. And the Congress may by general Laws prescribe the
 Manner in which such Acts, Records and Proceedings shall be proved, and the Effect
