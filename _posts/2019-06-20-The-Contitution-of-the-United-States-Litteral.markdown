@@ -870,5 +870,5 @@ No law, varying the compensation for the services of the Senators and Representa
 shall take effect, until an election of Representatives shall have intervened.
 
 This file was prepared by USConstitution.net. Find us on the web at
-<a href="http://www.usconstitution.net" target="_blank">USConstitution.net a>
+<a href="http://www.usconstitution.net" target="_blank">USConstitution.net
 
