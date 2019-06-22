@@ -11,3 +11,10 @@ ___Written in the best King's English...___
 ### Contact me
 
 [freemanwhoru@gmail.com](mailto:freemanwhoru@gmail.com)
+
+
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?reidhead,asovereignlifeabout"
+border="0" alt="Web Site Hit Counters"></a>
+<br><a href="https://www.easycounter.com/">HTML Counter</a>
+
