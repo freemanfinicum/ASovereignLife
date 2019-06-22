@@ -1,8 +1,8 @@
-               ## Revocation of Election Affidavit
+## Revocation of Election Affidavit
 
 The purpose of this Affidavit is to Establish as a Public Record the Revocation of Election ab initio by the American National Affiant who is Nonresident to the District of Columbia and Alien to that legislative jurisdiction.
 
-            ## Foundational Basis for Revocation of Election
+## Foundational Basis for Revocation of Election
 
 
 
