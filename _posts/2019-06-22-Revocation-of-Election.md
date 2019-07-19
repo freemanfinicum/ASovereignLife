@@ -97,6 +97,13 @@ The existence of both Lawful Taxpayers established via the Legislative Intent of
 
 31 USC §321 (d)(1) & (d)(2):
 
+    
+    (1) The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property,  both real  and  personal,  for  the  purpose  of  aiding  or  facilitating  the  work  of  the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury.  Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
+
+
+    (2) For  purposes  of  the  Federal  income,  estate,  and  gift  taxes,  property  accepted  under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
+
+
     (1) The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property,  both real  and  personal,  for  the  purpose  of  aiding  or facilitating  the  work  of  the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury.  Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
     (2) For  purposes  of  the  Federal  income,  estate,  and  gift  taxes,  property  accepted  under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
 
