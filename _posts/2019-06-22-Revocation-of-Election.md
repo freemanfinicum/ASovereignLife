@@ -97,56 +97,9 @@ The existence of both Lawful Taxpayers established via the Legislative Intent of
 
 31 USC §321 (d)(1) & (d)(2):
 
-31 USC §321 (d)(1) & (d)(2) clearly illustrates that the Federal Income Tax is considered and acknowledged by the US Department of the Treasury to be a 'gift or bequest' that is paid for the expressed purpose and use of the [statutory]United States. Here is the exact statement by the US Department of the Treasury in their own statutory Title of the United States Code, Title 31.
-
-31 USC §321 (d)(1) & (d)(2):
-
     (1) The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property,  both real  and  personal,  for  the  purpose  of  aiding  or  facilitating  the  work  of  the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury.  Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
     (2) For  purposes  of  the  Federal  income,  estate,  and  gift  taxes,  property  accepted  under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
 
-
-Let it further be known that the expression by the U.S. Department of the Treasury reference to the
-
-    
-    (1) The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property,  both real  and  personal,  for  the  purpose  of  aiding  or  facilitating  the  work  of  the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury.  Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
-
-
-    (2) For  purposes  of  the  Federal  income,  estate,  and  gift  taxes,  property  accepted  under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
-
-
-    (1) The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property,  both real  and  personal,  for  the  purpose  of  aiding  or facilitating  the  work  of  the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury.  Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
-    (2) For  purposes  of  the  Federal  income,  estate,  and  gift  taxes,  property  accepted  under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
-
-
-
-        1. The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property,  both real  and  personal,  for  the  purpose  of  aiding  or  facilitating  the  work  of  the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury.  Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
-        2. For  purposes  of  the  Federal  income,  estate,  and  gift  taxes,  property  accepted  under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
-
-
-
-
-    (1) The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property,  both real  and  personal,  for  the  purpose  of  aiding  or  facilitating  the  work  of  the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury.  Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
-    (2) For  purposes  of  the  Federal  income, estate, and gift taxes, property accepted under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
-
-
-
-    (1) The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property,  both real  and  personal,  for  the  purpose  of  aiding  or  facilitating  the  work  of  the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury.  Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
-
-
-    (2) For  purposes  of  the  Federal  income,  estate,  and  gift  taxes,  property  accepted  under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
-
-    (1) The Secretary of the Treasury may accept, hold, administer, and use gifts and bequests of property,  both real  and  personal,  for  the  purpose  of  aiding  or  facilitating  the  work  of  the Department of the Treasury. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed on order of the Secretary of the Treasury.  Property accepted under this paragraph, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
-
-    (2) For  purposes  of  the  Federal  income,  estate,  and  gift  taxes,  property  accepted  under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
-
-Let it further be known that the expression by the U.S. Department of the Treasury reference to the statutory term "United States" in 31 USC §321 (d)(2) means and references only the National Government in the District of Columbia and not the 50 states of the Union per 26 USC §7408(d).
-
-The IRS statutes refer only to the statutory United States being the District of Columbia unless a statutory section specifically refers to the "50 states".   The statute section reflecting this fact is 26 USC §7408(d).
-
-26 USC §7408 (d) Citizens and residents outside the United States
-If any citizen or  resident of  the United States does not  reside in, and does not  have his principal place of business in, any United States judicial district, such citizen or resident shall be treated for purposes of this section a s re siding in the District of Columbia.
-
-The above IRS statute in Title 26 acknowledges the limited geographical and legislative jurisdiction for the application of the federal income tax to be only the District of Columbia and other US Territories and possessions of the National Government. It entirely excludes any reference to the Constitutional Republic, the 50 states of the Union.
 
 
 
