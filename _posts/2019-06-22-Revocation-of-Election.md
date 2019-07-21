@@ -226,9 +226,13 @@ Date: _________________
 American National/Citizen of Arkansas State Republic
 
 Mailing Address:
-1234 Its My Responsibility Road 
-Bush, ABC  12345 
-SSN: 123-45-6789 
+
+1234 Its My Responsibility Road
+
+Bush, ABC  12345
+
+SSN: 123-45-6789
+
 No community property. 
 
 
