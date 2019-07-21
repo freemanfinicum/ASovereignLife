@@ -221,7 +221,7 @@ I, THE AFFIANT, DECLARE OR AFFIRM BY PENALTY OF PERJURY WITHOUT THE STATUTORY UN
 
 Sovereign Publius  (Affiant)
 
-Date: _________________
+Date:
 
 American National/Citizen of Arkansas State Republic
 
