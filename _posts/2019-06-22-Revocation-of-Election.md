@@ -219,12 +219,16 @@ UNDER THE LAWS OF THE UNITED STATES OF AMERICA, THE CONSTITUTIONAL REPUBLIC, WHI
 
 I, THE AFFIANT, DECLARE OR AFFIRM BY PENALTY OF PERJURY WITHOUT THE STATUTORY UNITED STATES THAT THE ABOVE AND FOREGOING REPRESENTATIONS, FEDERAL LAWS, AND ATTACHMENTS ARE TRUE AND CORRECT TO THE BEST OF MY KNOWLEDGE, UNDERSTANDING, AND BELIEF.
 
-Sovereign Publius  (Affiant)                                                                   
+Sovereign Publius  (Affiant)
+
 Date: _________________
+
 American National/Citizen of Arkansas State Republic
-Mailing Address:  4825 Mystery Cave Road 
-Marshall, AR  72650 
-SSN: ___562-53-3157____ 
+
+Mailing Address:
+1234 Its My Responsibility Road 
+Bush, ABC  12345 
+SSN: 123-45-6789 
 No community property. 
 
 
