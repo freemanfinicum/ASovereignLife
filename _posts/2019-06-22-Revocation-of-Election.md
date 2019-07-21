@@ -101,11 +101,137 @@ The existence of both Lawful Taxpayers established via the Legislative Intent of
 
 (2) For purposes of the Federal income, estate, and gift taxes, property accepted under paragraph (1) shall be considered as a gift or bequest to or for the use of the United States.
 
+Let it further be known that the expression by the U.S. Department of the Treasury reference to the statutory term "United States" in 31 USC §321 (d)(2) means and references only the National Government in the District of Columbia and not the 50 states of the Union per 26 USC §7408(d).
+
+The IRS statutes refer only to the statutory United States being the District of Columbia unless a statutory section specifically refers to the "50 states".   The statute section reflecting this fact is 26 USC §7408(d).
+
+26 USC §7408 (d) Citizens and residents outside the United States
+If any citizen or  resident of  the United States does not  reside in, and does not  have his principal place of business in, any United States judicial district, such citizen or resident shall be treated for purposes of this section a s re siding in the District of Colu m bia.
+
+The above IRS statute in Title 26 acknowledges the limited geographical and legislative jurisdiction for the application of the federal income tax to be only the District of Columbia and other US Territories and possessions of the National Government. It entirely excludes any reference to the Constitutional Republic, the 50 states of the Union.
+
+Stipulation of Facts made by this Affiant for the
+
+REVOCATION OF ELECTION
+
+[A]  All federal income taxation statutes and regulations apply only within the territorial jurisdiction of the District of Columba, the seat of the National Government also known as the statutory 'United States', unless directly stated otherwise.
+
+[B]  Sovereign American Nationals are not subject to the statutes and regulations, particularly Title 26, as they are limited in their geographical and legislative application to the District of Columbia as " sovereig n's are the author and source of the law"  according to the United States Supreme Court in Yick Wo v. Hopkins, 118 U.S. 356 (1886).
+
+[C]  The statutory definition of person used in statutes within the Internal Revenue Code of 1954 currently in use today in the territorial jurisdiction of the District of Columbia do not include or make reference to American Nationals as a result of the territorial limitations placed against the National Government per the Constitution. Such statutory words or phrases that illustrate this fact are highlighted in part as follows.
+
+1. Person - defined at 26 USC §7701(a)(1) only referencing statutory legal fictions
+2. U.S. person - defined at 26 USC §7701(a)(30) only referencing statutory legal fictions
+3. Taxpayer - defined at 26 USC §7701(a)(14) references any 'person' subject to
+4. U.S. Citizen - defined at 8 USC §1401(a)(1) only referencing a statutory legal fiction that was legislatively born in the District of Columbia and are property of the National Government and thus under the dominion or control of the National Government within its limited geographical and legislative jurisdiction.
+
+[D]   As a result of the United States Supreme Court decision in United States v. Cooper Corporation, 312 
+
+US 600 (1941) states that "the term ' person' does not include the sovereign and that statutes not employing the phrase are ordinarily construed to exclude it [the sovereign]."
+
+The statutory term 'Nonresident Alien Individual' obtusely defined at 26 USC §7701 (b)(1)(B) was purposely stated in vague terms as it addresses sovereign American Nationals as the target of that definition without reference to the term sovereign specifically.
+
+[E]  The Implementing Regulation 26 CFR §1.871-1(a) makes reference that Nonresident Alien Individuals can only be liable for the statutory laws of the jurisdiction of the District of Columbia if they choose to work for the National Government. Therefore, only federal workers derive income that is effectively connected with the conduct of a statutory ' trade or business' within the District of Columbia.
+
+[F]  The Thirteenth Amendment to the United States Constitution outlaws and prohibits slavery and involuntary servitude in the Constitutional Republic. It however, does not outlaw voluntary indentured servitude. The National Government has utilized sub silentio acts directed at American Nationals to induce them by prevailing social custom and lack of awareness of the facts established by law to draw into their jurisdiction such American Nationals.
+
+(1) 26 CFR §1.871-1(a) reflects the deception by the use of a statutory ' election' of a voluntary nature in order to make American Nationals liable for the federal income tax when the National Government was denied and deprived of such power by the United States Supreme Court in Pollock v. Farmer's Loan & Trust Company, 157 U.S. 429 (1895).
+
+(2) The Legislative Intent of the Sixteenth Amendment written by former POTUS William H. Taft on June 16, 1909, documents the limited jurisdiction for the National Government to levy the federal income tax only upon itself.  The federal income tax cannot and does not extend into the jurisdiction of the current 50 states of the Union.
+
+[G]  As evidence that the National Government cannot keep sovereign American Nationals so entrapped by the use of a statutory 'election' created by filing of a federal income tax return in perpetuity, the National Government has devised in its statutes a path for American Nationals referred to by the National Government as Nonresident Alien Individuals to exit, depart, and terminate forever the federal income tax scheme by use of 26 USC §6013(g)(4)(A) Termination of Election by Taxpayer.
+
+[H]   The United States Department of the Treasury, an agency of the National Government, is directly complicit in the statutory election scheme as stipulated in its statutes at 31 USC §321 (d)(1) and (d)(2) by clearly stating the federal income tax is nothing more than a " g ift or bequest" of personal property [money] of an American National " to and for the use of the United States [meaning the National Government]". This statement eliminates the exposure of the National Government to legal action against the government by making the 'election' voluntary and then declaring that the money paid for the tax is nothing but a " g ift or bequest" at the same time.
+
+[I]  The National Government use of statutory words are purposely obtuse for many sovereign American Nationals not trained in the art of legalese. The statutes are written in such a manner to allow the American Nationals to by default use their own definition of non statutory words to be misinterpreted as having the same meaning as to what the National Government defines their statutory words to mean. This presumption has proven to be a successful ruse by those in government who are willing to entrap their countrymen.
+
+[J]  As a result of the convoluted semantic gamesmanship of words defined by the U.S. Congress the path to escape the entanglement of American Nationals into being identified statutorily as "Taxpayers" of the  federal income tax was discovered at 26 USC §6013 (4)(A).  This Revocation of Election is now implemented by the Affiant in order to extricate himself forever from any obligation created by the former sub silentio election.
+
+[K]  The existence of lawful Non Taxpayers as related to the Internal Revenue Code of 1954 is described in two specific federal documents.
+
+(1) The Legislative Intent of the Sixteenth Amendment written by former POTUS William H. Taft on June 16, 1909, and promulgated in the Congressional Record of the United States Senate on pages 3344-3345. This foundational document proves that the federal income tax as we know it today was never lawfully designed to be levied upon American Nationals, in fact the power of the National Government to do so was specifically denied to the government.  American Nationals were protected from the National Government attempting to include them as being the subject and the object of those federal statutory and regulatory laws.
+
+(2) Economy Plumbing & Heating . U.S., 470 F2d. (1972) in which this appellate court declared the existence of two groups related to the federal income tax. Those groups are taxpayers and lawful non taxpayers. Those American Nationals, the lawful Non Taxpayers, were stated by this federal court to be neither the subject nor the object of federal revenue laws.
+
+Let it be lawfully established by the presentment of this Affidavit Testimony that the Affiant expresses his desire to formally Terminate the former statutory Election via:
+
+REVOCATION OF ELECTION
+
+Revocation by Taxpayer [Nonresident Alien Individual meaning American National] who by a prior sub silentio government act made an 'election' to have their income treated or taxed like that of a Resident Alien, now expressly states the desire to lawfully terminate or end the prior election via the statutory process of Revocation of Election.
+
+26 USC §6013(g)(4) addresses Termination of Election with a pertinent section at 26 USC §6013(g)(4)(A) Revocation by taxpayer. This statutory section stipulates that, "An election under this subsection shall terminate at the earliest of the following times". The 'earliest' time means 2 nanoseconds after IRS receipt of Affidavit.
+
+The Affiant, Sovereign Publius, does hereby expressly state his desire to Terminate the Election made years ago via the Congressionally created statute(s) in 26 USC §6013(g). Even though the statutory election was never stated openly prior to that election, the Affiant's desire to Terminate the Election is now clearly stated to those appropriate IRS operational personnel, IRS management, IRS Chief Legal Counsel, and the IRS Commissioner.
+
+As stipulated at 26 USC §6013(g)(4)(A), this Affiant now declares forevermore that he has exercised the option to Terminate the Election and upon receipt is no longer identified as one taxable like a Resident Alien. According to the Internal Revenue Code of 1954 statutes promulgated at 26 USC §6013(g)(6) Only one election, one finds expressed in this particular statute that if any election under this subsection is terminated under paragraph (4) Termination of Election (A) Revocation by taxpayers, that such individual(s) shall be ineligible to make an election under this subsection for any subsequent taxable year. Thus, once a Termination of Election occurs, which is the purpose of this Affidavit, the Affiant can never again make an 'election' to become a taxpayer in the future.
+
+Federal Appeals Court 2nd Circuit
+
+The federal court decision in Economy Plumbing & Heating v. U.S., 470 F2d. (1972) stated the existence of both Lawful Taxpayers and Lawful Non Taxpayers.
+
+“Revenue Laws relate to taxpayers and not to non-taxpayers. The latter are without their scope. No procedures are prescribed for non-taxpayers and no attempt is made to annul any of their Rights or Remedies in due course of law. With them [Non- taxpayers] Congress does not assume to deal and they are neither of the subject nor of the object of federal revenue laws."
+
+The Affiant now reaffirms the desire and expressed intent to revert back to his rightful status of an American National who is "neither of the subject nor of the object of federal revenue laws."
+
+Let it be established by the presentment in this Affidavit Testimony for the express purpose of REVOCATION OF ELECTION
+
+1. Affiant is a sovereign American National and American Nationals become so by;
+a) Birth of parent’s born in one of the 50 states of the Union.  Either parent being born of a Citizen of one of the 50 states. 
+b) Or naturalized in one of the 50 states in a court having American Common Law jurisdiction.
+
+The Affiant is NOT 'subject to' the territorial jurisdiction of the statutory United States [the District of Columbia] as a result of birth in one of the 50 states of the Union [the Constitutional Republic].
+
+2. The Affiant is NOT 'subject to' the territorial jurisdiction of the statutory United States [the District of Columbia] as a result of birth in one of the 50 states of the Union [the Constitutional Republic].
+
+(a) The Affiant is an American National who is nonresident, geographically and statutorily speaking, to the District of Columbia. The Affiant is also alien to the legislative jurisdiction of the US Congress who creates Legislative Acts without direct reference to the actual jurisdiction. Congressional laws are of limited jurisdiction. The Supreme Court declared, "...all  federal statutes and regulations applies only within the territorial jurisdiction of the United States [the District of Columbia] unless a contrary intent appears."
+
+3. The Affiant being a sovereign American National is not subject to the statutory laws promulgated for use in the exclusive and limited jurisdiction of the District of Columbia, the seat of the National Government.  Furthermore, the Affiant being a sovereign American National is not referenced or included in any statutory laws related to the federal income tax created by the U.S. Congress.
+
+4. The Affiant cannot be compelled, goaded, or presumed to associate with the National Government which would be a direct violation of the Foreign Sovereign Immunities Act and the Thirteenth Amendment to the Constitution outlawing slavery and involuntary servitude in the Constitutional Republic.
+
+5. The Legislative Intent of the Sixteenth Amendment to the Constitution clearly states that the Federal Income Tax was only levied upon the National Government [meaning those who choose to work for it]. The narrow jurisdictional application of the Federal Income Tax is evident due to the Amendment referring that it does not require adherence to the Constitutional Requirement of Apportionment based on Census as would be required of any direct tax.
+
+(a) The Congressional Act of the Sixteenth Amendment avoids this limitation in the Constitution by only applying the Amendment to the jurisdiction of the District of Columbia, the statutory United States. The Legislative Intent of the 16th Amendment acknowledges that former POTUS William H. Taft on June 16, 1909 recognized this territorial limitation for the levy of the federal income tax. The Legislative Intent of the 16th Amendment can be located in the Congressional Record of the United States Senate on pages 3344-3345.
+
+6. The Affiant does NOT derive any income that is "effectively connected with the conduct of a statutory 'Trade or Business' within the District of Columbia". Affiant has no tangible or statutory federal domicile.
+
+7. The National Government, and its bureau - the Internal Revenue Service - lacks both geographical and legislative jurisdiction to apply the federal income tax upon this Affiant. American Nationals according to the Legislative Intent of the 16th Amendment, the US Supreme Court and the Office of the Federal Register, and the enacted federal tax laws presented have never been made liable for the federal income tax by enacted federal law except via the sub silentio 'election' based on presumptions of its existence.
+
+8. The Affiant has discovered the statutory option provided by the U.S. Congress at 26 USC §6013(g) and its subsections and does now Revoke the Election, that was the etiology of the infectious financial statutory disease that has resulted in lost compensation for my labor over many years, created by the 
+
+National Government.
+
+(1) This REVOCATION OF ELECTION hereby made by the Affiant is effective immediately and is presented to the Office of the IRS Commissioner, et al, within the bureau of the Internal Revenue Service.
+
+(2) As a result, the Internal Revenue Service has been effectively NOTICED of the REVOCATION OF ELECTION and that per 26 USC §6013(g)(6) the REVOCATION OF ELECTION is now permanent.
+
+a. Never again can the Affiant be coerced, compelled, or goaded back into the nefariously created statutory scheme of the National Government. The Affiant must now be properly identified by those within the Internal Revenue Service as one who is a Lawful Non Taxpayer and that the scope of the statutory revenue laws within Title 26 are not applicable toward the Affiant. The Internal Revenue Service now recognizes by the REVOCATION OF ELECTION that the Affiant is neither the subject nor the object of federal revenue laws.
+
+9. The Internal Revenue Service is now formally notified of the REVOCATION OF ELECTION by this Affiant and there can be no further discussion as to this Affiant ever being liable for making a federal income tax return. The IRS records and databases must now reflect this TERMINATION OF ELECTION.
+
+This Affiant has ended the former taxation by election via this REVOCATION OF ELECTION that began sub silentio toward this Affiant.
+
+Congress, and the IRS, now by statutory requirement recognizes this Affiant's rights as a lawful Non Taxpayer of the Congressional income taxation statutes and regulations.
+
+Further affiant saith not.
+
+UNDER THE LAWS OF THE UNITED STATES OF AMERICA, THE CONSTITUTIONAL REPUBLIC, WHICH IS WITHOUT THE STATUTORY UNITED STATES [THE DISTRICT OF COLUMBIA] AND IN ACCORDANCE WITH 28 USC 1746(1) IN ORDER TO BE AS PRECISE AS POSSIBLE, DO HEREBY STATE THE FOLLOWING:
+
+I, THE AFFIANT, DECLARE OR AFFIRM BY PENALTY OF PERJURY WITHOUT THE STATUTORY UNITED STATES THAT THE ABOVE AND FOREGOING REPRESENTATIONS, FEDERAL LAWS, AND ATTACHMENTS ARE TRUE AND CORRECT TO THE BEST OF MY KNOWLEDGE, UNDERSTANDING, AND BELIEF.
+
+Sovereign Publius  (Affiant)                                                                   Date: _________________
+American National/Citizen of Arkansas State Republic
+Mailing Address:  4825 Mystery Cave Road 
+Marshall, AR  72650 
+SSN: ___562-53-3157____ 
+No community property. 
 
 
 
 
+Notary Seal
 
+NOTE:  Use of the notary public is for verification of signature and identity confirmation only. It implies no consent to federal jurisdiction under the Buck Act as Affiant is 'without the jurisdiction of the District of Columbia'.
 
 
 
